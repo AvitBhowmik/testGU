@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.3)  2 DEC 2018 22:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.8.3)  2 DEC 2018 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1250,242 +1250,208 @@ ations/trial_lecture/Figures/Questions.png>] [5
 ] [8
 
 ]
-<Figures/softdrinks.png, id=239, 946.53625pt x 557.08125pt>
-File: Figures/softdrinks.png Graphic file (type png)
-<use Figures/softdrinks.png>
-Package pdftex.def Info: Figures/softdrinks.png  used on input line 192. on inp
-ut line 192.
-Package pdftex.def Info: Requested size: 276.559pt x 162.76497pt on input line 
-192.
-[9
-
- </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
-ations/trial_lecture/Figures/softdrinks.png>]
-<Figures/GIglass.png, id=267, 672.5125pt x 672.5125pt>
+<Figures/GIglass.png, id=239, 672.5125pt x 672.5125pt>
 File: Figures/GIglass.png Graphic file (type png)
 <use Figures/GIglass.png>
-Package pdftex.def Info: Figures/GIglass.png  used on input line 206. on input 
-line 206.
+Package pdftex.def Info: Figures/GIglass.png  used on input line 197. on input 
+line 197.
 Package pdftex.def Info: Requested size: 153.64493pt x 153.63818pt on input lin
-e 206.
-[10
+e 197.
+[9
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/GIglass.png>]
 File: Figures/GIglass.png Graphic file (type png)
 <use Figures/GIglass.png>
-Package pdftex.def Info: Figures/GIglass.png  used on input line 206. on input 
-line 206.
+Package pdftex.def Info: Figures/GIglass.png  used on input line 197. on input 
+line 197.
 Package pdftex.def Info: Requested size: 153.64493pt x 153.63818pt on input lin
-e 206.
-[11
+e 197.
+[10
 
 ]
-<Figures/gis_app.png, id=321, 860.21375pt x 504.88625pt>
+<Figures/gis_app.png, id=293, 860.21375pt x 504.88625pt>
 File: Figures/gis_app.png Graphic file (type png)
 <use Figures/gis_app.png>
-Package pdftex.def Info: Figures/gis_app.png  used on input line 214. on input 
-line 214.
+Package pdftex.def Info: Figures/gis_app.png  used on input line 205. on input 
+line 205.
 Package pdftex.def Info: Requested size: 328.8024pt x 192.98354pt on input line
- 214.
+ 205.
 
-Overfull \hbox (21.51253pt too wide) in paragraph at lines 214--214
+Overfull \hbox (21.51253pt too wide) in paragraph at lines 205--205
  [][] 
  []
 
-[12
+[11
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/gis_app.png>]
-<Figures/wine.png, id=350, 1445.4pt x 633.36626pt>
+<Figures/wine.png, id=321, 1445.4pt x 633.36626pt>
 File: Figures/wine.png Graphic file (type png)
 <use Figures/wine.png>
-Package pdftex.def Info: Figures/wine.png  used on input line 223. on input lin
-e 223.
+Package pdftex.def Info: Figures/wine.png  used on input line 214. on input lin
+e 214.
 Package pdftex.def Info: Requested size: 307.28987pt x 134.65378pt on input lin
-e 223.
-[13
+e 214.
+[12
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/wine.png>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 243.
+LaTeX Font Info:    Try loading font information for U+msa on input line 234.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 243.
+LaTeX Font Info:    Try loading font information for U+msb on input line 234.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 243.
+line 234.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-<Figures/Tobler_2007.png, id=379, 167.6664pt x 214.401pt>
+<Figures/Tobler_2007.png, id=350, 167.6664pt x 214.401pt>
 File: Figures/Tobler_2007.png Graphic file (type png)
 <use Figures/Tobler_2007.png>
-Package pdftex.def Info: Figures/Tobler_2007.png  used on input line 243. on in
-put line 243.
+Package pdftex.def Info: Figures/Tobler_2007.png  used on input line 234. on in
+put line 234.
 Package pdftex.def Info: Requested size: 104.47769pt x 133.59789pt on input lin
-e 243.
-[14
+e 234.
+[13
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/Tobler_2007.png>]
 File: Figures/Tobler_2007.png Graphic file (type png)
 <use Figures/Tobler_2007.png>
-Package pdftex.def Info: Figures/Tobler_2007.png  used on input line 243. on in
-put line 243.
+Package pdftex.def Info: Figures/Tobler_2007.png  used on input line 234. on in
+put line 234.
 Package pdftex.def Info: Requested size: 104.47769pt x 133.59789pt on input lin
-e 243.
-[15
+e 234.
+[14
 
 ]
-<Figures/Mwipt.png, id=432, 235.88126pt x 584.1825pt>
+<Figures/Mwipt.png, id=404, 235.88126pt x 584.1825pt>
 File: Figures/Mwipt.png Graphic file (type png)
 <use Figures/Mwipt.png>
-Package pdftex.def Info: Figures/Mwipt.png  used on input line 254. on input li
-ne 254.
+Package pdftex.def Info: Figures/Mwipt.png  used on input line 245. on input li
+ne 245.
 Package pdftex.def Info: Requested size: 76.82246pt x 190.25818pt on input line
- 254.
-<Figures/Mwisf.png, id=433, 249.93375pt x 584.1825pt>
+ 245.
+<Figures/Mwisf.png, id=405, 249.93375pt x 584.1825pt>
 File: Figures/Mwisf.png Graphic file (type png)
 <use Figures/Mwisf.png>
-Package pdftex.def Info: Figures/Mwisf.png  used on input line 254. on input li
-ne 254.
+Package pdftex.def Info: Figures/Mwisf.png  used on input line 245. on input li
+ne 245.
 Package pdftex.def Info: Requested size: 81.43163pt x 190.3295pt on input line 
-254.
+245.
 
-Overfull \vbox (0.78539pt too high) detected at line 254
+Overfull \vbox (0.78539pt too high) detected at line 245
  []
 
-[16
+[15
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/Mwipt.png> </Users/avitbhowmik/PostDoc/Future_Eart
 h/Career/Uni_Geisenheim_W2_Prof/presentations/trial_lecture/Figures/Mwisf.png>]
-<Figures/remote_sensing.png, id=461, 597.23125pt x 770.88pt>
+<Figures/remote_sensing.png, id=432, 597.23125pt x 770.88pt>
 File: Figures/remote_sensing.png Graphic file (type png)
 <use Figures/remote_sensing.png>
-Package pdftex.def Info: Figures/remote_sensing.png  used on input line 272. on
- input line 272.
+Package pdftex.def Info: Figures/remote_sensing.png  used on input line 257. on
+ input line 257.
 Package pdftex.def Info: Requested size: 92.1879pt x 118.99113pt on input line 
-272.
-<Figures/drone.png, id=462, 162.3666pt x 185.493pt>
+257.
+<Figures/drone.png, id=433, 162.3666pt x 185.493pt>
 File: Figures/drone.png Graphic file (type png)
 <use Figures/drone.png>
-Package pdftex.def Info: Figures/drone.png  used on input line 272. on input li
-ne 272.
+Package pdftex.def Info: Figures/drone.png  used on input line 257. on input li
+ne 257.
 Package pdftex.def Info: Requested size: 104.47742pt x 119.36327pt on input lin
-e 272.
-
-Overfull \vbox (0.72488pt too high) detected at line 272
- []
-
-[17
+e 257.
+[16
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/remote_sensing.png> </Users/avitbhowmik/PostDoc/Fu
 ture_Earth/Career/Uni_Geisenheim_W2_Prof/presentations/trial_lecture/Figures/dr
 one.png>]
-File: Figures/remote_sensing.png Graphic file (type png)
-<use Figures/remote_sensing.png>
-Package pdftex.def Info: Figures/remote_sensing.png  used on input line 272. on
- input line 272.
-Package pdftex.def Info: Requested size: 92.1879pt x 118.99113pt on input line 
-272.
-File: Figures/drone.png Graphic file (type png)
-<use Figures/drone.png>
-Package pdftex.def Info: Figures/drone.png  used on input line 272. on input li
-ne 272.
-Package pdftex.def Info: Requested size: 104.47742pt x 119.36327pt on input lin
-e 272.
-
-Overfull \vbox (0.72488pt too high) detected at line 272
- []
-
-[18
-
-]
-<Figures/RS1.png, id=517, 1571.8725pt x 677.53125pt>
+<Figures/RS1.png, id=463, 1571.8725pt x 677.53125pt>
 File: Figures/RS1.png Graphic file (type png)
 <use Figures/RS1.png>
-Package pdftex.def Info: Figures/RS1.png  used on input line 281. on input line
- 281.
+Package pdftex.def Info: Figures/RS1.png  used on input line 266. on input line
+ 266.
 Package pdftex.def Info: Requested size: 322.65529pt x 139.07056pt on input lin
-e 281.
+e 266.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 281--281
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 266--266
 []  
  []
 
-[19
+[17
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/RS1.png>]
-<Figures/RS2.png, id=546, 593.21625pt x 710.655pt>
+<Figures/RS2.png, id=491, 593.21625pt x 710.655pt>
 File: Figures/RS2.png Graphic file (type png)
 <use Figures/RS2.png>
-Package pdftex.def Info: Figures/RS2.png  used on input line 293. on input line
- 293.
+Package pdftex.def Info: Figures/RS2.png  used on input line 278. on input line
+ 278.
 Package pdftex.def Info: Requested size: 135.20828pt x 161.97246pt on input lin
-e 293.
-<Figures/chennai.png, id=547, 761.84625pt x 423.5825pt>
+e 278.
+<Figures/chennai.png, id=492, 761.84625pt x 423.5825pt>
 File: Figures/chennai.png Graphic file (type png)
 <use Figures/chennai.png>
-Package pdftex.def Info: Figures/chennai.png  used on input line 293. on input 
-line 293.
+Package pdftex.def Info: Figures/chennai.png  used on input line 278. on input 
+line 278.
 Package pdftex.def Info: Requested size: 162.86325pt x 90.54492pt on input line
- 293.
-[20
+ 278.
+[18
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/RS2.png> </Users/avitbhowmik/PostDoc/Future_Earth/
 Career/Uni_Geisenheim_W2_Prof/presentations/trial_lecture/Figures/chennai.png>]
 File: Figures/RS2.png Graphic file (type png)
 <use Figures/RS2.png>
-Package pdftex.def Info: Figures/RS2.png  used on input line 293. on input line
- 293.
+Package pdftex.def Info: Figures/RS2.png  used on input line 278. on input line
+ 278.
 Package pdftex.def Info: Requested size: 135.20828pt x 161.97246pt on input lin
-e 293.
+e 278.
 File: Figures/chennai.png Graphic file (type png)
 <use Figures/chennai.png>
-Package pdftex.def Info: Figures/chennai.png  used on input line 293. on input 
-line 293.
+Package pdftex.def Info: Figures/chennai.png  used on input line 278. on input 
+line 278.
 Package pdftex.def Info: Requested size: 162.86325pt x 90.54492pt on input line
- 293.
-[21
+ 278.
+[19
 
 ]
-<Figures/news.png, id=603, 680.5425pt x 807.015pt>
+<Figures/news.png, id=548, 680.5425pt x 807.015pt>
 File: Figures/news.png Graphic file (type png)
 <use Figures/news.png>
-Package pdftex.def Info: Figures/news.png  used on input line 306. on input lin
-e 306.
+Package pdftex.def Info: Figures/news.png  used on input line 291. on input lin
+e 291.
 Package pdftex.def Info: Requested size: 153.64493pt x 182.19855pt on input lin
-e 306.
-[22
+e 291.
+[20
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/news.png>]
 File: Figures/news.png Graphic file (type png)
 <use Figures/news.png>
-Package pdftex.def Info: Figures/news.png  used on input line 306. on input lin
-e 306.
+Package pdftex.def Info: Figures/news.png  used on input line 291. on input lin
+e 291.
 Package pdftex.def Info: Requested size: 153.64493pt x 182.19855pt on input lin
-e 306.
-[23
+e 291.
+[21
 
 ]
 File: Figures/news.png Graphic file (type png)
 <use Figures/news.png>
-Package pdftex.def Info: Figures/news.png  used on input line 306. on input lin
-e 306.
+Package pdftex.def Info: Figures/news.png  used on input line 291. on input lin
+e 291.
 Package pdftex.def Info: Requested size: 153.64493pt x 182.19855pt on input lin
-e 306.
-[24
+e 291.
+[22
 
 ]
 \openout4 = `trial_lecture_Geisenheim_Bhowmik_2018.vrb'.
@@ -1493,21 +1459,21 @@ e 306.
 
 (/Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/presenta
 tions/trial_lecture/trial_lecture_Geisenheim_Bhowmik_2018.vrb
-<Figures/Germany_Sites.png, id=684, 431.4519pt x 563.4651pt>
+<Figures/Germany_Sites.png, id=629, 431.4519pt x 563.4651pt>
 File: Figures/Germany_Sites.png Graphic file (type png)
 <use Figures/Germany_Sites.png>
 Package pdftex.def Info: Figures/Germany_Sites.png  used on input line 2. on in
 put line 2.
 Package pdftex.def Info: Requested size: 122.91406pt x 160.52043pt on input lin
 e 2.
-<Figures/Bioclim.png, id=685, 1323.94624pt x 1504.62125pt>
+<Figures/Bioclim.png, id=630, 1323.94624pt x 1504.62125pt>
 File: Figures/Bioclim.png Graphic file (type png)
 <use Figures/Bioclim.png>
 Package pdftex.def Info: Figures/Bioclim.png  used on input line 4. on input li
 ne 4.
 Package pdftex.def Info: Requested size: 138.2795pt x 157.12894pt on input line
  4.
-) [25
+) [23
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/Germany_Sites.png> </Users/avitbhowmik/PostDoc/Fut
@@ -1518,50 +1484,50 @@ clim.png>]
 
 (/Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/presenta
 tions/trial_lecture/trial_lecture_Geisenheim_Bhowmik_2018.vrb
-<Figures/Temperature.png, id=715, 398.48875pt x 129.48375pt>
+<Figures/Temperature.png, id=659, 398.48875pt x 129.48375pt>
 File: Figures/Temperature.png Graphic file (type png)
 <use Figures/Temperature.png>
 Package pdftex.def Info: Figures/Temperature.png  used on input line 10. on inp
 ut line 10.
 Package pdftex.def Info: Requested size: 215.10196pt x 69.89449pt on input line
  10.
-) [26
+) [24
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/Temperature.png>]
-<Figures/Cold.png, id=743, 1344.02126pt x 1374.13374pt>
+<Figures/Cold.png, id=688, 1344.02126pt x 1374.13374pt>
 File: Figures/Cold.png Graphic file (type png)
 <use Figures/Cold.png>
-Package pdftex.def Info: Figures/Cold.png  used on input line 343. on input lin
-e 343.
+Package pdftex.def Info: Figures/Cold.png  used on input line 328. on input lin
+e 328.
 Package pdftex.def Info: Requested size: 158.25409pt x 161.78574pt on input lin
-e 343.
+e 328.
 File: Figures/Bioclim.png Graphic file (type png)
 <use Figures/Bioclim.png>
-Package pdftex.def Info: Figures/Bioclim.png  used on input line 343. on input 
-line 343.
+Package pdftex.def Info: Figures/Bioclim.png  used on input line 328. on input 
+line 328.
 Package pdftex.def Info: Requested size: 142.88866pt x 162.38647pt on input lin
-e 343.
-[27
+e 328.
+[25
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
-ations/trial_lecture/Figures/Cold.png>] [28
+ations/trial_lecture/Figures/Cold.png>] [26
 
-] [29
+] [27
 
 ]
-Overfull \hbox (11.12762pt too wide) in paragraph at lines 379--379
+Overfull \hbox (11.12762pt too wide) in paragraph at lines 364--364
 []\OT1/cmss/m/n/10.95 https://github.com/AvitBhowmik/testGU[], 
  []
 
-<Figures/Ques.png, id=827, 264.99pt x 556.32843pt>
+<Figures/Ques.png, id=772, 264.99pt x 556.32843pt>
 File: Figures/Ques.png Graphic file (type png)
 <use Figures/Ques.png>
-Package pdftex.def Info: Figures/Ques.png  used on input line 379. on input lin
-e 379.
+Package pdftex.def Info: Figures/Ques.png  used on input line 364. on input lin
+e 364.
 Package pdftex.def Info: Requested size: 86.03946pt x 180.63481pt on input line
- 379.
-[30
+ 364.
+[28
 
  </Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/present
 ations/trial_lecture/Figures/Ques.png>]
@@ -1574,22 +1540,22 @@ ations/trial_lecture/Figures/Ques.png>]
 \tf@snm=\write8
 \openout8 = `trial_lecture_Geisenheim_Bhowmik_2018.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 368.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 368.
 
 (/Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim_W2_Prof/presenta
 tions/trial_lecture/trial_lecture_Geisenheim_Bhowmik_2018.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 368.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 368.
 Package rerunfilecheck Info: File `trial_lecture_Geisenheim_Bhowmik_2018.out' h
 as not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18387 strings out of 492990
- 350388 string characters out of 6132637
+ 18376 strings out of 492990
+ 350213 string characters out of 6132637
  419004 words of memory out of 5000000
- 21390 multiletter control sequences out of 15000+600000
+ 21384 multiletter control sequences out of 15000+600000
  13153 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,15n,55p,902b,693s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1602,10 +1568,10 @@ sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr
 r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb>
 Output written on /Users/avitbhowmik/PostDoc/Future_Earth/Career/Uni_Geisenheim
 _W2_Prof/presentations/trial_lecture/trial_lecture_Geisenheim_Bhowmik_2018.pdf 
-(30 pages, 11759156 bytes).
+(28 pages, 11692981 bytes).
 PDF statistics:
- 893 PDF objects out of 1000 (max. 8388607)
- 803 compressed objects within 9 object streams
- 61 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 837 PDF objects out of 1000 (max. 8388607)
+ 752 compressed objects within 8 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
